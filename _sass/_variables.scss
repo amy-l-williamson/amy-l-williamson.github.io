@@ -47,7 +47,7 @@ $type-size-8                : 0.625em;  // ~10px
    Colors
    ========================================================================== */
 
-/*
+
 $gray                       : #7a8288;
 $dark-gray                  : mix(#000, $gray, 40%);
 $darker-gray                : mix(#000, $gray, 60%);
@@ -60,9 +60,10 @@ $code-background-color      : #fafafa;
 $code-background-color-dark : $light-gray;
 $text-color                 : $dark-gray;
 $border-color               : $lighter-gray;
-*/
+
 
 /* Here are the new (dark theme) colors */
+/*
 $gray                       : #7a8288;
 $dark-gray                  : mix(#000, $gray, 40%);
 $darker-gray                : mix(#000, $gray, 60%);
@@ -75,10 +76,10 @@ $code-background-color      : mix(#000, $background-color, 15%);
 $code-background-color-dark : mix(#000, $background-color, 20%);
 $text-color                 : #eaeaea;
 $border-color               : mix(#fff, $background-color, 20%);
-
+*/
 
 //$primary-color              : #7a8288;
-$primary-color              : #00ff00;
+$primary-color              : #3366cc;
 $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
