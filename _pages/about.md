@@ -9,8 +9,7 @@ redirect_from:
 ---
 
 
-Hi there! Welcome to my website.
-I am a postdoctoral research at the [Space Sciences Laboratory](https://www.ssl.berkeley.edu/science/directory-of-researchers/name/lucas-liuzzo/), located at the [University of California, Berkeley](https://www.berkeley.edu).
+Hi there! I am a postdoctoral research at the [Berkeley Seismological Laboratory](https://seismo.berkeley.edu/).
 
 
 
