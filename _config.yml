@@ -11,13 +11,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lucas Liuzzo"
+title                    : "Amy Williamson"
 title_separator          : "-"
-name                     : &name "Lucas Liuzzo"
-description              : &description "Researcher at Space Sciences Laboratory"
-url                      : https://lukeliuzzo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Amy Williamson"
+description              : &description "Postdoctoral Researcher at BSL"
+url                      : https://amy-l-williamson.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "lukeliuzzo/lukeliuzzo.github.io"
+repository               : "amy-l-williamson/amy-l-williamson.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -85,15 +85,15 @@ google_analytics: G-0RFGF4SD9P
 
 # Site Author
 author:
-  name             : "Lucas Liuzzo"
+  name             : "Amy Williamson"
   avatar           : "profile.png"
-  bio              : "Postdoctoral Researcher at the Space Sciences Laboratory"
+  bio              : "Postdoctoral Researcher at the Berkeley Seismo Lab"
   location         : "Berkeley, California"
   employer         : "University of California, Berkeley"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=FLOtSqUAAAAJ"
-  email            : "liuzzo@berkeley.edu"
-  researchgate     :  "https://www.researchgate.net/profile/Lucas-Liuzzo"
+  googlescholar    : "https://scholar.google.com/citations?user=7xx_mhwAAAAJ&hl=en&oi=sra"
+  email            : "amy.williamson@berkeley.edu"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -101,20 +101,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "lukeliuzzo"
+  github           : "amy-l-williamson"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "lrliuzzo"
-  orcid            : "https://orcid.org/0000-0002-4820-8594"
+  linkedin         : 
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "lukeliuzzo"
+  twitter          : "awilliamsonsci"
   vine             :
   weibo            :
   xing             :
