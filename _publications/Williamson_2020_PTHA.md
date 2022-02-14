@@ -1,7 +1,7 @@
 ---
 title: "A Source Clustering Approach for Efficient Inundation Modeling and Regional Scale PTHA"
 collection: publications
-permalink: /publication/Williamson_2020_PTHA
+permalink: /publications/Williamson_2020_PTHA
 #excerpt: ''
 date: 2020-07-01
 venue: 'Frontiers in Earth Science'
