@@ -16,8 +16,7 @@ UNDER CONSTRUCTION!!
 Active Research Interests
 ======
 ## Earthquake Early Warning
-offshore detection, shake alert, fast fast 
 
 ## Tsunami Modeling
-sometimes fast, sometimes slow.  
+
 
