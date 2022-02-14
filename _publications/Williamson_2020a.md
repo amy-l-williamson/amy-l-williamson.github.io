@@ -1,5 +1,5 @@
 ---
-title: "Toward Near!Field Tsunami Forecasting Along the Cascadia Subduction Zone Using Rapid GNSS Source Models"
+title: "Toward Near-Field Tsunami Forecasting Along the Cascadia Subduction Zone Using Rapid GNSS Source Models"
 collection: publications
 permalink: /publications/Williamson_2020a
 #excerpt: ''
