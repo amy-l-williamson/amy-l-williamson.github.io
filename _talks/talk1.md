@@ -1,11 +1,20 @@
 ---
+title: 'Blog Post number 1'
+date: 2012-08-14
 permalink: /
-title: "Conference Presentations"
-excerpt: "Conference Presentations"
+tags:
+  - cool posts
+  - category1
+  - category2
 ---
 
+This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
 
-Hi there! I am a postdoctoral research at the [Berkeley Seismological Laboratory](https://seismo.berkeley.edu/).
+Headings are cool
+======
 
+You can have many headings
+======
 
-
+Aren't headings cool?
+------
