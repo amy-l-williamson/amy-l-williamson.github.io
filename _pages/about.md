@@ -11,7 +11,6 @@ redirect_from:
 
 Hi there! I am a postdoctoral research at the [Berkeley Seismological Laboratory](https://seismo.berkeley.edu/).
 
-UNDER CONSTRUCTION!!
 
 Active Research Interests
 ======
