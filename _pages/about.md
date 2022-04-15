@@ -19,6 +19,9 @@ My research interests have focused on a variety of techniques to improve our und
 
 ## Earthquake Early Warning
 
+The ShakeAlert EEW system rapidly locates and characterizes earthquakes using real time data from broadband and strong-motion seismometers. Within seconds of an earthquake rupture, alerts can be sent to users warning of potential shaking, often before the arrival of the more damaging S-wave. These alerts are crucial for people in areas where potentially damaging shaking can ocur, allowing for proactive action to mitigate risk. 
+
+
 ## Tsunami Modeling
 
 
