@@ -1,5 +1,5 @@
 ---
-title: "Improving out of network earthquake locations using prior seismicity for use in earthquake early warning
+title: 'Improving out of network earthquake locations using prior seismicity for use in earthquake early warning'
 collection: publications
 permalink: /publications/Williamson_etal_2023
 #excerpt: ''
