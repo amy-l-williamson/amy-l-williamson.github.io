@@ -1,4 +1,3 @@
-
 ---
 title: "Improving out of network earthquake locations using prior seismicity for use in earthquake early warning
 collection: publications
