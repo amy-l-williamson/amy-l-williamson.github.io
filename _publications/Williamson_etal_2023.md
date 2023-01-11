@@ -3,8 +3,8 @@ title: "Improving out of network earthquake locations using prior seismicity for
 collection: publications
 permalink: /publications/Williamson_etal_2023
 #excerpt: ''
-date: in press
-venue: 'BSSA'
+#date: in press
+#venue: 'BSSA'
 paperurl: 'http://amy-l-williamson.github.io/files/Williamson_etal_2023_bayesEPIC.pdf'
 ---
 
@@ -12,5 +12,5 @@ In order to better constrain location solutions in this region, we propose to in
 
 
 
-[You can read this paper here.](http://amy-l-williamson.github.io/files/Williamson_etal_2023_bayesEPIC.pdf)
+[You can read the pre-print of this paper here.](http://amy-l-williamson.github.io/files/Williamson_etal_2023_bayesEPIC.pdf)
 
