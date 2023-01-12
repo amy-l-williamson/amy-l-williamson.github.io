@@ -3,7 +3,7 @@ title: 'Improving out of network earthquake locations using prior seismicity for
 collection: publications
 permalink: /publications/Williamson_etal_2023
 #excerpt: ''
-date: 'in press'
+date: 2023-01-01
 venue: 'BSSA'
 paperurl: 'http://amy-l-williamson.github.io/files/Williamson_etal_2023_bayesEPIC.pdf'
 ---
