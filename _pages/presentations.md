@@ -9,10 +9,16 @@ redirect_from:
 
 {% include base_path %}
 ## Seminars
+Williamson, A., Lux, A., Allen, R. (2024) _Combining earthquake and tsunami early warnings along the west coast of the United States_.   USGS Earthquake Science Seminar
 
-Williamson, A.   Local Tsunami Warning Using GNSS. (2020) University of Oregon Department of Earth Sciences Spring Seminar.
+Williamson, A. (2022) _Improving Timely Earthquake Early Warning Accuracy For Offshore Seismicity_.  Bay Area Geophysical Society
 
-Williamson A.,  Melgar, D., Xu, X., Milliner, C. W. D  (2019) Coseismic or Landslide? The source of the 2018 Palu Tsunamis. Berkeley Seismo Lab seminar series.
+Williamson, A., (2022) _ From Shaking to Action: Earthquake and Tsunami Early Warning Across the Western US_. Georgia Teach EAS Graduate Student Symposium Keynote 
+Williamson, A. (2022) _Earthquake and tsunami early warning across the west coast of the United States_. University of Oxford Seismology Seminar
+
+Williamson, A. (2020)   _Local Tsunami Warning Using GNSS_. University of Oregon Department of Earth Sciences Spring Seminar.
+
+Williamson A.,  Melgar, D., Xu, X., Milliner, C. W. D. (2019)  _Coseismic or Landslide? The source of the 2018 Palu Tsunamis_. Berkeley Seismology Lab seminar series.
 ## Conference Presentations
 
 Collins, B. D., Coe, J. A., Corbett, S., Haney, M. M., Lyons, J. J., Paskievitch, J., Schaefer, L., Staley, D., Daanen, R., Wolken, G., Stevens, D., Ohlendorf, S., Langley, S., Rasch, R., Burgy, M., Bahng, B., Williamson, A., Snider, D., Gridley, J., Ruppert, N., West, M., Meier, L., Preston, C., & Stopka, C. J. (2021, December). Multi-agency–multi-platform monitoring of potential landslide and tsunami hazards at the Barry Arm landslide, Prince William Sound, Alaska. In AGU Fall Meeting 2021. AGU.
