@@ -31,7 +31,7 @@ Hi there! I am a research scientist at the [Berkeley Seismological Laboratory](h
 
 My research interests have focused on a variety of techniques to improve our understanding of earthquake source processes through the merging of both submarine and terrestrial datasets. I have a particular interest in studying tsunamigenic events because of their large scale impact on communities on an ocean basin scale. 
 
-#### Earthquake Early Warning
+### Earthquake Early Warning
 
 The ShakeAlert EEW system rapidly locates and characterizes earthquakes using real time data from broadband and strong-motion seismometers. Within seconds of an earthquake rupture, alerts can be sent to users warning of potential shaking, often before the arrival of the more damaging S-wave. These alerts are crucial for people in areas where potentially damaging shaking can ocur, allowing for proactive action to mitigate risk. As a postdoctoral researcher and now as a research scientist, I actively work to improve the real-time characterization of earthquakes within ShakeAlert. To date, I have:
 - developed a real-time weighting scheme to improve earthquake location estimates in the ShakeAlert EEW algorithm, EPIC
@@ -39,12 +39,12 @@ Earthquake Early Warning (EEW)
 - created updated station magnitude scaling relations to better characterize station magnitudes from near-field stations in ShakeAlert
 - developed per-station site corrections to account for localized amplification
 
-#### Tsunami Modeling & Tsunami Early Warning
+### Tsunami Modeling & Tsunami Early Warning
 
 - probabilistic tsunami hazard modeling using event clustering
 - landslide generated tsunami hazard assessments for the Barry Arm and greater Prince William Sound, Alaska
 - high resolution tsunami modeling including complex earthquake rupture parameters
   
-#### Geodesy
+### Geodesy
 - developing quality control tools to analyze real-time on-board positions within the BARD GNSS network
 - testing the efficacy of rapid GNSS data products for use in earthquake and tsunami early warning algorithms
