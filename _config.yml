@@ -14,7 +14,7 @@ locale                   : "en-US"
 title                    : "Amy Williamson"
 title_separator          : "-"
 name                     : &name "Amy Williamson"
-description              : &description "Postdoctoral Researcher at BSL"
+description              : &description "Research Scientist at the BSL"
 url                      : https://amy-l-williamson.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "amy-l-williamson/amy-l-williamson.github.io"
@@ -87,7 +87,7 @@ google_analytics: G-0RFGF4SD9P
 author:
   name             : "Amy Williamson"
   avatar           : "profile.png"
-  bio              : "Postdoctoral Researcher at the Berkeley Seismo Lab"
+  bio              : "Research Scientist at the Berkeley Seismo Lab"
   location         : "Berkeley, California"
   employer         : "University of California, Berkeley"
   pubmed           : 
