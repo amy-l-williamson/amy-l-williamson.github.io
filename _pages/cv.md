@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-I am currently a postdoctoral scholar at the Berkeley Seismo Lab at the University of California, Berkeley.
+I am a reseach scientist at the Berkeley Seismo Lab at the University of California, Berkeley.
 
-[My most-recently updated CV can be found here](http://amy-l-williamson.github.io/files/Williamson_CV.pdf)
+[My most-recently updated CV can be found here (Oct 2024)](http://amy-l-williamson.github.io/files/Williamson_CV.pdf)
