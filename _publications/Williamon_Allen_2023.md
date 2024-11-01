@@ -9,7 +9,7 @@ paperurl: 'http://amy-l-williamson.github.io/files/Williamson_Allen_PAGEOPH_2023
 ---
 
 
-![alt text](http://amy-l-williamson.github.io/images/TEW_MyShake_photo.png "test" | width=100)
+![alt text](http://amy-l-williamson.github.io/images/TEW_MyShake_photo.png)
 
 In this paper, we developed the farmework to dissemination tsunami early wraning alerts by integrating Tsunami Warning Center alerts with the current earthquake early warning scheme of the MyShake smartphone application.
 
