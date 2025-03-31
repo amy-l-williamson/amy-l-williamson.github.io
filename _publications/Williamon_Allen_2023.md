@@ -1,7 +1,7 @@
 ---
 title: 'Improving Efficacy of Tsunami Warnings Along the West Coast of the United States'
 collection: publications
-permalink: /publications/Williamson_Allen_PAGEOPH_2023
+permalink: /publications/Williamson_Allen_2023
 #excerpt: ''
 date: 2023-04-28
 venue: 'PAGEOH'
